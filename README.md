@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Nathan Alencar | Hey there! I'm Nathan Alencar</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack com paixão por construir APIs robustas e projetos web bem estruturados.<br/>
+  Desenvolvedor Full Stack com paixão por construir APIs<br/>
   Full Stack Developer passionate about building robust APIs and well-structured web projects.
 </p>
 
